@@ -1,1 +1,2 @@
 # neovim
+terrible neovim config
